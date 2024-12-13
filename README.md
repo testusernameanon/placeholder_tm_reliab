@@ -4,11 +4,11 @@ The work in this repository supports the paper 'Reliability of Topic Modeling' w
 
 The contributions of this research are as follows:
 
-We highlight the shortcomings of the existing standard practice for measuring topic model reliability, which primarily relies on ad-hoc methods and fails to capture essential aspects of model variation.
-We propose three new reliability metrics, namely Stratified Alpha, Multivariate Omega, and Maximal Reliability, which are grounded in statistical theory and address the limitations of the standard practice.
-We conduct extensive empirical evaluations on both synthetic and real-world datasets to assess the performance of the proposed metrics. We demonstrate that Multivariate Omega consistently outperforms other metrics in capturing the true reliability of topic models.
-Our work emphasizes the importance of considering reliability in topic modeling research. By using the proposed reliability metrics, researchers can assess the robustness of their findings and avoid drawing misleading conclusions based on unreliable topic models.
-This work contributes to the methodological advancements in topic modeling by providing a rigorous framework for evaluating the reliability of these models. This can lead to more reliable and trustworthy insights derived from text data analysis.
+* We highlight the shortcomings of the existing standard practice for measuring topic model reliability, which primarily relies on ad-hoc methods and fails to capture essential aspects of model variation.
+* We propose three new reliability metrics, namely Stratified Alpha, Multivariate Omega, and Maximal Reliability, which are grounded in statistical theory and address the limitations of the standard practice.
+* We conduct extensive empirical evaluations on both synthetic and real-world datasets to assess the performance of the proposed metrics. We demonstrate that Multivariate Omega consistently outperforms other metrics in capturing the true reliability of topic models.
+* Our work emphasizes the importance of considering reliability in topic modeling research. By using the proposed reliability metrics, researchers can assess the robustness of their findings and avoid drawing misleading conclusions based on unreliable topic models.
+* This work contributes to the methodological advancements in topic modeling by providing a rigorous framework for evaluating the reliability of these models. This can lead to more reliable and trustworthy insights derived from text data analysis.
 
 #### Repo Setup
 This repo includes corresponding data and scripts for both synthetic data results and application (CFPB data) results. Additional scripts are included to allow for replication of all figures and tables within the paper. The structure of the repo is as follows:
